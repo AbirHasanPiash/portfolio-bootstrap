@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h5 {
+  color: #0d6efd;
+}
+
+.project-con {
+  display: inline-flex;
+  gap: 8px;
+}
+
+.form-container {
+  display: flex;
+  background-color: rgb(233, 233, 233);
+  border: 1px solid #0d6efd;
+  border-radius: 8px;
+  width: 70%;
+  justify-content: center;
+  align-items: center;
+}
